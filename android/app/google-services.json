@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838987974390",
+    "project_id": "e-gurukul0",
+    "storage_bucket": "e-gurukul0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838987974390:android:0fa6dc385a26b9d5400ed7",
+        "android_client_info": {
+          "package_name": "com.tirthpatel.egurukul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838987974390-q8muvcsh8ee20nemgedi9e28q1rrj3ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfvLY-FynqdG-Fefj0jknxB_xECnRJGZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838987974390-q8muvcsh8ee20nemgedi9e28q1rrj3ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
